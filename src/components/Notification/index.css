@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.con-notification {
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 2px #e5e5e5 solid;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
